@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  image: CC_STG_with_overlaps_node_thrshld_50_v2.png
+  image: CC_STG_with_overlaps_node_thrshld_50_v2_cropped.png
 ---
 
 Thanks for stopping by my page. My name is Dávid. I'm a fresh Ph.D. graduate from the Department of Network and Data Science, Central European University, Budapest.

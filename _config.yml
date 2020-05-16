@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dávid Deritei Home"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Dávid Deritei"
 description              : &description "personal description"
@@ -83,8 +83,8 @@ author:
   name             : "Dávid Deritei"
   avatar           : "David-Deritei.jpg"
   bio              : "Doctor of Philosophy in Network and Data Science <br>
-                      Master of Sc. in Computational Physics <br>
-                      Bachelor of Sc. in Physics"
+                      Master of Science in Computational Physics <br>
+                      Bachelor of Science in Physics"
   location         : "Budapest, HU"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
