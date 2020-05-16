@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Dávid Deritei"
   avatar           : "David-Deritei.jpg"
-  bio              : "Ph.D. of Network and Data Science
-                      M.Sc. of Computational Physics
-                      B.Sc. of Physics"
+  bio              : "Doctor of Philosophy in Network and Data Science <br>
+                      Master of Sc. in Computational Physics <br>
+                      Bachelor of Sc. in Physics"
   location         : "Budapest, HU"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -104,7 +104,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/d%C3%A1vid-deritei-495b1a83/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
