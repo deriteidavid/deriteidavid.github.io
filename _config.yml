@@ -81,8 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Dávid Deritei"
-  avatar           : "images/David-Deritei.jpg"
-  bio              : "Ph.D. of Network and Data Science"
+  avatar           : "David-Deritei.jpg"
+  bio              : "Ph.D. of Network and Data Science
+                      M.Sc. of Computational Physics
+                      B.Sc. of Physics"
   location         : "Budapest, HU"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
