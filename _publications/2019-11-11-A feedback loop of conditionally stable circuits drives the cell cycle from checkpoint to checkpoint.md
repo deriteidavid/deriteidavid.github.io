@@ -2,7 +2,7 @@
 title: "A feedback loop of conditionally stable circuits drives the cell cycle from checkpoint to checkpoint"
 collection: publications
 permalink: /publication/2019_feedback_loop
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2019-11-11
 venue: 'Scientific Reports'
 paperurl: 'https://www.nature.com/articles/s41598-019-52725-1'
