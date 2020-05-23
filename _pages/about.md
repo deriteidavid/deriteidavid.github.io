@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
-#header:
+header:
 #  image: CC_STG_with_overlaps_node_thrshld_50_v2_cropped.png
 ---
 
