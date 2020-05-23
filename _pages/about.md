@@ -6,8 +6,8 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
-header:
-  image: CC_STG_with_overlaps_node_thrshld_50_v2_cropped.png
+#header:
+#  image: CC_STG_with_overlaps_node_thrshld_50_v2_cropped.png
 ---
 
 Thanks for stopping by my page. As you could probably tell already, my name is Dávid Deritei, you can call me Dávid. I'm a fresh Ph.D. graduate from the Department of Network and Data Science, Central European University, Budapest.
