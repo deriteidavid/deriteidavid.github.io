@@ -10,7 +10,10 @@ header:
   image: CC_STG_with_overlaps_node_thrshld_50_v2_cropped.png
 ---
 
-Thanks for stopping by my page. My name is Dávid. I'm a fresh Ph.D. graduate from the Department of Network and Data Science, Central European University, Budapest.
+Thanks for stopping by my page. As you could probably tell already, my name is Dávid Deritei, you can call me Dávid. I'm a fresh Ph.D. graduate from the Department of Network and Data Science, Central European University, Budapest.
+I am a physicist by training and my main focus is the understanding the fundamental driving forces of *complex systems* ranging from the protein-protein interactions of the biological cell to organization of societies.
+
+I have a wide variety of professional and personal interests, the role of this home page is to project some of it to anyone who might be interested.  
 
 ## My Scientific  Path
 
